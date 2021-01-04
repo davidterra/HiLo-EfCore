@@ -35,8 +35,5 @@ bld/
 # vscode
 **/.vscode
 
-# images
-**/wwwroot/Images
-
 # vs
 **/.vs
